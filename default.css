@@ -1,4 +1,6 @@
-@charset"UTF-8";
+@charset "UTF-8";
+body{
+  backgrand-color: #fbf9cc;
 hl{
   font-size: 1.5em;
   color: #3399cc;
@@ -9,6 +11,7 @@ h2{
    }
 p{
   font-size: 1.75em;
+  backgrand-color: #3399cc;
   color: #333333;
   }
 li{
